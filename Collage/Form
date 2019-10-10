@@ -9,7 +9,7 @@
 <fieldset>
 <legend>Personal information:</legend>
 First Name :<br>
-<input type="text" name="First" placeholder="Enter your FristName"><br>
+<input type="text" name="First" placeholder="Enter your FirstName"><br>
 Last Name :<br>
 <input type="text" placeholder="Enter your LastName"><br>
 Gender:<br>

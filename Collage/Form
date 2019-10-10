@@ -9,7 +9,7 @@
 <fieldset>
 <legend>Personal information:</legend>
 First Name :<br>
-<input type="text" name="First" placeholder="Enter your FristName"><br>
+<input type="text" name="First" placeholder="Enter your FirstName"><br>
 Last Name :<br>
 <input type="text" placeholder="Enter your LastName"><br>
 Gender:<br>
@@ -22,7 +22,7 @@ Plese enter address
 </textarea>
 <br>Email id:<br><input type="text" placeholder="Enter your LastName"><br>
 Hobbies:<br>
-<input type="checkbox" name="hobbies" value="Have THem">Have THem<br>
+<input type="checkbox" name="hobbies" value="Have THem">Have Them<br>
 <input type="checkbox" name="hobbies" value="Sorry">Sorry <br>
 City<br>
 <select>
